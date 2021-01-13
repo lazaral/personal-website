@@ -93,7 +93,7 @@ email = "alberto.lazari@ndcn.ox.ac.uk"
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", link = "https://twitter.com/Twitter"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/LazariAlberto"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
