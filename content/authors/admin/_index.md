@@ -4,7 +4,7 @@ role: Research Associate
 avatar_filename: avatar.jpeg
 bio: ""
 interests:
-  - Myelin
+  - Myelin & White Matter
   - Neuroimaging
   - Brain Stimulation
   - Cross-species MRI
