@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: alberto.lazari@ndcn.ox.ac.uk
+    link: mailto:alberto.lazari@ndcn.ox.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/LazariAlberto
