@@ -5,8 +5,10 @@ avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Myelin
-  - Neuroimaging & Brain Stimulation
-  - Cross-species
+  - Neuroimaging
+  - Brain Stimulation
+  - Cross-species MRI
+  - Methods & Open Science
 social:
   - icon: envelope
     icon_pack: fas
