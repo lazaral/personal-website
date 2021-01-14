@@ -19,10 +19,10 @@ social:
     link: https://scholar.google.com/citations?user=ygvehggAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/lazaral
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/alberto-lazari-55578487/
 organizations:
   - name: Wellcome Centre for Integrative Neuroimaging
     url: https://www.win.ox.ac.uk/research
