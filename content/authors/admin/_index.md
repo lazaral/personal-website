@@ -1,6 +1,7 @@
 ---
 title: Alberto Lazari
 role: Research Associate
+avatar_filename: photo.jpeg
 bio: ""
 interests:
   - Myelin
@@ -37,6 +38,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Coming soon!
