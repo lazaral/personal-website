@@ -1,7 +1,7 @@
 ---
 title: Alberto Lazari
 role: Research Associate
-avatar_filename: photo.jpeg
+avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Myelin
