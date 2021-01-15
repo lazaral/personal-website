@@ -28,6 +28,7 @@ social:
 organizations:
   - name: Wellcome Centre for Integrative Neuroimaging
     url: https://www.win.ox.ac.uk/research
+  - name: University of Oxford
 education:
   courses:
     - course: PhD in Neuroscience
@@ -40,7 +41,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-I am a Research Associate in Preclinical Neuroimaging at the [Wellcome Centre for Intergrative Neuroimaging (WIN)](https://www.win.ox.ac.uk/research). My research uses brain technologies - such as neuroimaging and brain stimulation - to generate basic and translational knowledge relevant to brain health.
+I am a Research Associate in Preclinical Neuroimaging at the [Wellcome Centre for Intergrative Neuroimaging (WIN)](https://www.win.ox.ac.uk/research) in Oxford. My research uses brain technologies - such as neuroimaging and brain stimulation - to generate basic and translational knowledge relevant to brain health.
 
 My research interests revolve around myelination, multimodal microstructural MRI, and cross-species approaches to neuroimaging. At the moment, I am running a project funded by a WIN Seed Grant and focussed on cross-species homologies in the motor system.
 
