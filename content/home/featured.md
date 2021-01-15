@@ -27,8 +27,8 @@ Lazari, A., Giuffre, A., & Nandi, T. (2020). White matter damage and altered con
 
 Salvan, P., Lazari, A., Vidaurre, D., Mandino, F., Johansen-Berg, H., & Grandjean, J. (2020). Causal evidence of network communication in whole-brain dynamics through a multiplexed neural code. *bioRxiv*. [Link](https://www.biorxiv.org/content/10.1101/2020.06.09.142695v1) [PDF](https://www.biorxiv.org/content/10.1101/2020.06.09.142695v1.full.pdf)
 
-Sampaio-Baptista, C., De Weijer, A., Van Der Toorn, A., Otte, W. M., Winkler, A. M., Lazari, A., ... & Johansen-Berg, H. (2019). Skill acquisition increases myelination and strengthens functional connectivity in the sensorimotor circuit of the adult rat. *BioRxiv*, 661546. Link PDF
+Sampaio-Baptista, C., De Weijer, A., Van Der Toorn, A., Otte, W. M., Winkler, A. M., Lazari, A., ... & Johansen-Berg, H. (2019). Skill acquisition increases myelination and strengthens functional connectivity in the sensorimotor circuit of the adult rat. *BioRxiv*, 661546. [Link](https://www.biorxiv.org/content/10.1101/661546v1) [PDF](https://www.biorxiv.org/content/10.1101/661546v1.full.pdf)
 
 Lazari, A., Koudelka, S., & Sampaio-Baptista, C. (2018). Experience-related reductions of myelin and axon diameter in adulthood. *Journal of neurophysiology*, *120*(4), 1772-1775. [Link](https://journals.physiology.org/doi/full/10.1152/jn.00070.2018) [PDF](https://journals.physiology.org/doi/pdfplus/10.1152/jn.00070.2018)
 
-Kaller, M. S., Lazari, A., Blanco-Duque, C., Sampaio-Baptista, C., & Johansen-Berg, H. (2017). Myelin plasticity and behaviour—connecting the dots. *Current opinion in neurobiology*, *47*, 86-92. Link PDF
+Kaller, M. S., Lazari, A., Blanco-Duque, C., Sampaio-Baptista, C., & Johansen-Berg, H. (2017). Myelin plasticity and behaviour—connecting the dots. *Current opinion in neurobiology*, *47*, 86-92. [Link](https://www.sciencedirect.com/science/article/pii/S0959438817300983) [PDF](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5844949/pdf/main.pdf)
