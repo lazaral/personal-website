@@ -40,4 +40,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Coming soon!
+I am a Research Associate in Preclinical Neuroimaging at the [Wellcome Centre for Intergrative Neuroimaging (WIN)](https://www.win.ox.ac.uk/research). My research uses brain technologies - such as neuroimaging and brain stimulation - to generate basic and translational knowledge relevant to brain health.
+
+My research interests revolve around myelination, multimodal microstructural MRI, and cross-species approaches to neuroimaging. At the moment, I am running a project funded by a WIN Seed Grant and focussed on cross-species homologies in the motor system.
+
+Previous to this, I completed a Wellcome Trust 4-year PhD in the [Plasticity Group at WIN](https://www.ndcn.ox.ac.uk/research/fmrib-plasticity-group). My doctoral work has investigated a recently discovered mechanism of plasticity in the adult brain - myelin plasticity. To this end, I used a variety of techniques including multimodal microstructural imaging, resting-state fMRI, non-invasive brain stimulation (TMS), invasive electrophysiology and transgenic knock-out models.
