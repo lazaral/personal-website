@@ -5,7 +5,7 @@ avatar_filename: avatar.jpeg
 bio: ""
 interests:
   - Myelin & White Matter
-  - Neuroimaging
+  - Multimodal Neuroimaging
   - Brain Stimulation
   - Cross-species MRI
   - Methods & Open Science
