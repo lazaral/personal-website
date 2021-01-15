@@ -15,12 +15,12 @@
 
 [[main]]
   name = "Blog"
-  url = "#posts"
+  url = "posts/"
   weight = 30
 
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "contact/"
   weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
