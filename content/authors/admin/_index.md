@@ -26,9 +26,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/alberto-lazari-55578487/
 organizations:
+  - name: University of Oxford
   - name: Wellcome Centre for Integrative Neuroimaging
     url: https://www.win.ox.ac.uk/research
-  - name: University of Oxford
 education:
   courses:
     - course: PhD in Neuroscience
