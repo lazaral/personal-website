@@ -19,13 +19,14 @@ content:
 design:
   view: 4
 ---
-Lazari, A., Salvan, P., Cottaar, M., Papp, D., Rushworth, M. F., & Johansen-Berg, H. (2022). Hebbian activity-dependent plasticity in white matter. *Cell Reports.* [Link](https://www.sciencedirect.com/science/article/pii/S2211124722007331)
-
-Lazari, A., Salvan, P., Verhagen, L., Cottaar, M., Papp, D., van der Werf, O. J., ... & Johansen-Berg, H. (2022). A macroscopic link between interhemispheric tract myelination and cortico-cortical interactions during action reprogramming. *Nature communications.* [Link](https://www.nature.com/articles/s41467-022-31687-5)
 
 Grandjean, J., Desrosiers-Gregoire, G., Anckaerts, C., Angeles-Valdez, D., Ayad, F., Barrière, D. A., ... & Houwing, D. J. (2023). A consensus protocol for functional connectivity analysis in the rat brain. *Nature neuroscience.* [Link](https://www.nature.com/articles/s41593-023-01286-8)
 
 Rawlings-Mortimer, F., Lazari, A., Tisca, C., Tachrount, M., Martins-Bach, A. B., Miller, K. L., ... & Johansen-Berg, H. (2023). 7, 8-dihydroxyflavone enhances long-term spatial memory and alters brain volume in wildtype mice. *Frontiers in Systems Neuroscience* [Link](https://www.frontiersin.org/articles/10.3389/fnsys.2023.1134594/full)
+
+Lazari, A., Salvan, P., Cottaar, M., Papp, D., Rushworth, M. F., & Johansen-Berg, H. (2022). Hebbian activity-dependent plasticity in white matter. *Cell Reports.* [Link](https://www.sciencedirect.com/science/article/pii/S2211124722007331)
+
+Lazari, A., Salvan, P., Verhagen, L., Cottaar, M., Papp, D., van der Werf, O. J., ... & Johansen-Berg, H. (2022). A macroscopic link between interhemispheric tract myelination and cortico-cortical interactions during action reprogramming. *Nature communications.* [Link](https://www.nature.com/articles/s41467-022-31687-5)
 
 Gudberg, C., Stevelink, R., Douaud, G., Wulff, K., Lazari, A., Fleming, M. K., & Johansen-Berg, H. (2022). Individual differences in slow wave sleep architecture relate to variation in white matter microstructure across adulthood. *Frontiers in Aging Neuroscience* [Link](https://www.frontiersin.org/articles/10.3389/fnagi.2022.745014/full)
 
